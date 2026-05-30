@@ -1,16 +1,16 @@
-## Hi there 👋
+### 👋 Hi, welcome to my profile!
 
-<!--
-**nullsequitur/nullsequitur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Lampros Trifyllis.
 
-Here are some ideas to get you started:
+I am a Theoretical Physicist (PhD) with a focus on computational methods, automated symbolic calculations, and Linux environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This profile is a newly established space where I am refactoring and open-sourcing standalone scripts, tools, and academic material developed during my research and teaching career. Migrated from local files and my old profile [@archie-boorchie](https://github.com/archie-boorchie).
+
+### Core Projects
+
+* **[smeftFR](./smeftFR)**: Co-author of this Mathematica package used in High Energy Physics to automate Feynman rules generation for the Standard Model Effective Field Theory.
+* **[arch-install](./arch-install)**: A modular, semi-automated post-installation ecosystem for Arch Linux scripted in Bash. **[qit-notes](./qit-notes)**: LaTeX source files and lecture notes for the undergraduate course "Quantum Information Theory" which I instruct at the University of Ioannina.
+
+---
+
+📫 **Contact**: l.trifyllis.uoi@gmail.com
