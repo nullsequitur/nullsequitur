@@ -9,7 +9,8 @@ This profile is a newly established space where I am refactoring and open-sourci
 ### Core Projects
 
 * **[smeftFR](./smeftFR)**: Co-author of this Mathematica package used in High Energy Physics to automate Feynman rules generation for the Standard Model Effective Field Theory.
-* **[arch-install](./arch-install)**: A modular, semi-automated post-installation ecosystem for Arch Linux scripted in Bash. **[qit-notes](./qit-notes)**: LaTeX source files and lecture notes for the undergraduate course "Quantum Information Theory" which I instruct at the University of Ioannina.
+* **[arch-install](./arch-install)**: A modular, semi-automated post-installation ecosystem for Arch Linux scripted in Bash.
+* **[qit-notes](./qit-notes)**: LaTeX source files and lecture notes for the undergraduate course "Quantum Information Theory" which I instruct at the University of Ioannina.
 
 ---
 
