@@ -1,6 +1,6 @@
-### 👋 Hi, welcome to my profile!
+### Ø ❯ `whoami`
 
-My name is Lampros Trifyllis.
+Hi! My name is Lampros Trifyllis.
 
 I am a Theoretical Physicist (PhD) with a focus on computational methods, automated symbolic calculations, and Linux environments.
 
