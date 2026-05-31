@@ -8,9 +8,9 @@ This profile is a newly established space where I am refactoring and open-sourci
 
 ### Core Projects
 
-* **[smeftFR](/nullsequitur/smeftFR)**: Co-author of this Mathematica package used in High Energy Physics to automate Feynman rules generation for the Standard Model Effective Field Theory.
-* **[arch-install](/nullsequitur/arch-install)**: A modular, semi-automated post-installation ecosystem for Arch Linux scripted in Bash.
-* **[qit-notes](/nullsequitur/qit-notes)**: LaTeX source files and lecture notes for the undergraduate course "Quantum Information Theory" which I instruct at the University of Ioannina.
+* **[smeftFR](https://github.com/nullsequitur/SmeftFR)**: Co-author of this Mathematica package used in High Energy Physics to automate Feynman rules generation for the Standard Model Effective Field Theory.
+* **[arch-install](https://github.com/nullsequitur/arch-install)**: A modular, semi-automated post-installation ecosystem for Arch Linux scripted in Bash.
+* **[qit-notes](https://github.com/nullsequitur/qit-notes)**: LaTeX source files and lecture notes for the undergraduate course "Quantum Information Theory" which I instruct at the University of Ioannina.
 
 ---
 
