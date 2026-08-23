@@ -1,5 +1,3 @@
-### `Ø ❯  whoami`
-
 ### <code><font color="#95b1d9">∅</font><font color="#8f969e">＞</font>&nbsp;&nbsp;<font color="#f4f3ef">whoami</font></code>
 
 Hi! My name is Lampros Trifyllis.
