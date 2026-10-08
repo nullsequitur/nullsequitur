@@ -2,9 +2,13 @@
 
 Hi! My name is Lampros Trifyllis.
 
-I am a Theoretical Physicist (PhD) with a focus on computational methods, automated symbolic calculations, and Linux environments.
+I am a Theoretical Physicist (PhD) with a focus on AI engineering, software development, Linux environments, computational methods and automated symbolic calculations.
 
 This profile is a newly established space where I am refactoring and open-sourcing standalone scripts, tools, and academic material developed during my research and teaching career. Migrated from local files and my old profile [@archie-boorchie](https://github.com/archie-boorchie).
+
+### Home page
+
+Take a look at my portfolio in [https://nullsequitur.github.io/](https://nullsequitur.github.io/). You can use a fully interacting terminal emulator to access the information you need! Alternative, there is a dashboard with shortcuts to all available info.
 
 ### Core Projects
 
